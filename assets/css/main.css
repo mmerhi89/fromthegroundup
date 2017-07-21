@@ -1657,7 +1657,7 @@ Tessellate by HTML5 UP | @ajlkn use under the CCA 3.0 license
 #poem {
 		position: relative;
 		margin: 0;
-		background-image: url("images/wordsofsoila.png"), url("../../images/wordsofsoilb.png");
+		background-image: url("images/wordsofsoila.png"), url("../../images/wordsofsoila.png");
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
